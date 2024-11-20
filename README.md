@@ -1,2 +1,7 @@
-# density_diversity_rhizosphere
-File repository for Newberger et al. rhizosphere manuscript
+File and code repository for the manuscript entitled "Effect of intra- and inter-specific plant interactions on the rhizosphere microbiome of a single target plant at different densities" by Newberger et al. 
+
+Abstract
+Root and rhizosphere studies often focus on analyzing single-plant microbiomes, with the literature containing minimum empirical information about the shared rhizosphere microbiome of multiple plants. Here, the rhizosphere of individual plants was analyzed in a microcosm study containing different combinations and densities (1-3 plants, 24 plants, and 48 plants) of cover crops: Medicago sativa, Brassica sp., and Fescue sp. Rhizobacterial beta diversity was reduced by increasing plant density for all plant mixtures. Interestingly, plant density had a significant influence over beta diversity while plant diversity was found to be a less important factor since it did not have a significant change. Regardless of plant neighbor identity or density, a low number of rhizobacteria were strongly associated with each target species. Nonetheless, a few bacterial taxa were shown to have conditional associations such as being enriched within only high plant densities, which may alleviate plant competition between these species. Also, we found evidence of bacterial sharing of nitrogen fixers from alfalfa to fescue. Although rhizosphere bacterial networks had overlapping bacterial modules, the modules showing the largest percentage of the network changed depending on plant neighbor. In summary, this study found that for the most part plants maintained their rhizosphere microbiome despite escalating plant-plant competition. 
+
+Keywords: rhizosphere, plant-plant interactions, microbiome, bacteriome, bacteria, cover crops, plant competition
+
